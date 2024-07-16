@@ -25,13 +25,17 @@ Note: Vous trouverez dans le repository les images requises. Les couleurs, texte
 ### Informations:
 
 Couleur brun: #5C3327
+
 Couleur blanc: #FFFFFF
 
 Texte du Footer:
 
 sales@valleyfresh.com
+
 (424)258-4003
+
 Copyright © 2024 Valley Fresh
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius nisl eget arcu consectetur varius. Vestibulum hendrerit nulla ut purus tempus, quis maximus lacus luctus.
 
