@@ -20,6 +20,8 @@ Note: Vous trouverez dans le repository les images requises. Les couleurs, texte
 
 3. Si il vous reste du temps, veuillez rendre le header et le footer responsive sous mobile. Vous retrouverez le design mobile sous l'image "design_mobile.jpg", assurez-vous que les éléments se positionnent les uns au dessus des autres (stack) à partir de 1024px et en dessous.
 
+4. Veuillez commettre (commit) votre code pour terminer.
+
 ### Informations:
 
 Couleur brun: #5C3327
